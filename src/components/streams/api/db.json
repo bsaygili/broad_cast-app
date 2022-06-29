@@ -1,0 +1,92 @@
+{
+  "streams": [
+    {
+      "title": "Rocket League",
+      "description": "Bahadır Yayında...Topla Gel!!!",
+      "id": 1
+    },
+    {
+      "title": "Elden Ring",
+      "description": "Elfleri tanıyalım!!!",
+      "id": 2
+    },
+    {
+      "title": "GTA IV",
+      "description": "Tofaş ile Piyasa Yapmaya Devam",
+      "id": 3
+    },
+    {
+      "title": "MineCRAFT",
+      "description": "Bebeleri pistten alalım.",
+      "id": 4
+    },
+    {
+      "title": "Valorant",
+      "description": "Patron bu iş bizde!!! Dünya Rank listesine nasıl girilir. İzle!!!",
+      "id": 5
+    },
+    {
+      "title": "FIFA22",
+      "description": "Sincan SuperLeague!",
+      "userId": "103075280635322377068",
+      "id": 6
+    },
+    {
+      "description": "I dont want to play AFKs",
+      "title": "LOL",
+      "id": 7
+    },
+    {
+      "title": "Compliments",
+      "description": "About VAR",
+      "id": 8
+    },
+    {
+      "title": "Call of Duty : WARZONE",
+      "description": "Attention!!! Commender Here!!",
+      "userId": "103075280635322377068",
+      "id": 9
+    },
+    {
+      "title": "OverWatch",
+      "description": "First Shoot",
+      "id": 10
+    },
+    {
+      "title": "Apex Legends",
+      "description": "Play the best",
+      "userId": "103075280635322377068",
+      "id": 11
+    },
+    {
+      "title": "Fortnite",
+      "description": "lets dance!?!?!",
+      "userId": "103075280635322377068",
+      "id": 12
+    },
+    {
+      "title": "ARK - Survival Evolved-",
+      "description": "ARK players come here!!!",
+      "userId": "103075280635322377068",
+      "id": 13
+    },
+    {
+      "title": "Clash Royale",
+      "description": "the King is back!",
+      "userId": "103075280635322377068",
+      "id": 14
+    },
+    {
+      "title": "PUBG",
+      "description": "Çorba parası çıktı",
+      "userId": "103075280635322377068",
+      "id": 15
+    },
+    {
+      "title": "Just Chatting",
+      "description": "Sohbet Muhabbet",
+      "userId": "103075280635322377068",
+      "id": 16
+    }
+  ]
+}
